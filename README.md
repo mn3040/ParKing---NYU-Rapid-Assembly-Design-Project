@@ -29,12 +29,12 @@ This program uses a TensorFlow Lite model to perform object detection on a live 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-link
+    git clone https://github.com/mn3040/ParKing---NYU-Rapid-Assembly-Design-Project
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repo-link
+    cd ParKing---NYU-Rapid-Assembly-Design-Project
     ```
 
 3. Install the required packages:
@@ -48,7 +48,7 @@ This program uses a TensorFlow Lite model to perform object detection on a live 
 
 1. Navigate to the project directory:
     ```bash
-    cd your-repo-link
+    cd ParKing---NYU-Rapid-Assembly-Design-Project
     ```
 
 2. Run the object detection script:
