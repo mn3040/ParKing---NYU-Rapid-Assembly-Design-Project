@@ -1,6 +1,6 @@
 # Webcam Object Detection Using TensorFlow Lite
 
-This project uses a TensorFlow Lite model to perform object detection on a live webcam feed. It draws boxes and scores around the objects of interest in each frame from the webcam. To improve FPS, the webcam object runs in a separate thread from the main program. This script works with either a Picamera or a regular USB webcam.
+This project uses a TensorFlow Lite model to perform object detection on a live webcam feed. It draws boxes and scores around the objects of interest in each frame from the webcam. To improve FPS, the webcam object runs in a separate thread from the main program. This script works with either a Raspberry Pi 4.
 
 ## Author
 
